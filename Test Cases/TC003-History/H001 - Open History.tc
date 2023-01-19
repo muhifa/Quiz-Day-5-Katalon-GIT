@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek history of appointment</description>
+   <name>H001 - Open History</name>
+   <tag>History</tag>
+   <comment></comment>
+   <testCaseGuid>330f1f6f-57fb-4aad-b175-ac629176f9a9</testCaseGuid>
+</TestCaseEntity>
