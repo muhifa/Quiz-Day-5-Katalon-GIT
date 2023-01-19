@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make appointment with filling all colomn</description>
+   <name>MOP001 - Make appointment</name>
+   <tag>Appointment</tag>
+   <comment></comment>
+   <testCaseGuid>e8465cac-7ff5-45cf-b5a8-7255ca6b9738</testCaseGuid>
+</TestCaseEntity>
