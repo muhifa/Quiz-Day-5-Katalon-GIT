@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to website by filling username and password</description>
+   <name>L001 - Login to Website</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>b4cf3e70-d439-4026-82b3-51412fb09eac</testCaseGuid>
+</TestCaseEntity>
