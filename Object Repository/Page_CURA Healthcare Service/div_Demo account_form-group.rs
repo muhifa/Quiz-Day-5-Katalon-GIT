@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>93776d5c-bf4e-49ff-ac67-28abc84e46b6</webElementGuid>
+      <webElementGuid>40213859-bedb-4655-96e9-fa8e5013a937</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-group</value>
-      <webElementGuid>52d4477f-9515-4e0c-81dc-c6f2e0731832</webElementGuid>
+      <webElementGuid>3d56f9d9-5664-4040-bcdf-f9729664cdcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-3 col-sm-6&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;alert alert-info&quot;]/div[@class=&quot;form-group&quot;]</value>
-      <webElementGuid>72d41a73-6be7-42c0-b466-5d54809ecca1</webElementGuid>
+      <webElementGuid>4a0df2a0-4248-49f5-9508-15c01fabc684</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='login']/div/div/div[2]/form/div/div[2]</value>
-      <webElementGuid>bf3eceee-8862-48f9-bf7e-6b9e5f936309</webElementGuid>
+      <webElementGuid>700cdc93-ba07-4497-8522-a1feb38cc244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/following::div[3]</value>
-      <webElementGuid>50d5b5dc-662b-4d38-81e2-a3acb5bcb44b</webElementGuid>
+      <webElementGuid>479954bf-89a4-4417-a452-d8e78adafcc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[6]</value>
-      <webElementGuid>91c37f53-695f-4149-a685-5eb5097b9767</webElementGuid>
+      <webElementGuid>58bb943a-08e2-4551-8512-08b756b219f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[3]</value>
-      <webElementGuid>2cf244db-4994-4e5c-b879-3295e30dbed0</webElementGuid>
+      <webElementGuid>604b12e2-3d1f-4a4c-af5a-d3c7f0dad69b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[5]</value>
-      <webElementGuid>a22ffbe7-4629-42d7-9fb5-88396fa260b6</webElementGuid>
+      <webElementGuid>63b771d2-e33c-48b7-a6ce-1c037a2d2bbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[2]</value>
-      <webElementGuid>3a1898a3-3538-42de-be2b-3c72da528a9f</webElementGuid>
+      <webElementGuid>03c98bf5-b46d-4f0e-a2e6-c96323a2935b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

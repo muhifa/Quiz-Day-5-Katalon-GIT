@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_CURA Healthcare_fa fa-bars</name>
+   <name>span_Visit Date (Required)_glyphicon glyphi_cada34</name>
    <tag></tag>
-   <elementGuidId>8c5f07af-0b92-45c6-8a22-365cdd9b83aa</elementGuidId>
+   <elementGuidId>0ca42b97-3e42-47d5-9993-e778d7caad5c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='menu-toggle']/i</value>
+         <value>//section[@id='appointment']/div/div/form/div[4]/div/div/div/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>i.fa.fa-bars</value>
+         <value>span.glyphicon.glyphicon-calendar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,39 +21,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>i</value>
-      <webElementGuid>5c1e06bd-7e42-4da8-b0b3-f61338d73679</webElementGuid>
+      <value>span</value>
+      <webElementGuid>36f94ae4-1e6f-4a6a-b325-bb0f71aab0f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa fa-bars</value>
-      <webElementGuid>d1eda3ce-752c-46f3-b08a-aee4bed6a31c</webElementGuid>
+      <value>glyphicon glyphicon-calendar</value>
+      <webElementGuid>139c9c9b-2670-486c-b06f-edd2b62734d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-toggle&quot;)/i[@class=&quot;fa fa-bars&quot;]</value>
-      <webElementGuid>145791ff-3207-4184-bb86-f1b576462ed5</webElementGuid>
+      <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;input-group date&quot;]/div[@class=&quot;input-group-addon&quot;]/span[@class=&quot;glyphicon glyphicon-calendar&quot;]</value>
+      <webElementGuid>441683ba-8073-498f-8785-2c3534f55f9b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='menu-toggle']/i</value>
-      <webElementGuid>7cb8d400-9536-492b-b7f6-a7426040becd</webElementGuid>
+      <value>//section[@id='appointment']/div/div/form/div[4]/div/div/div/span</value>
+      <webElementGuid>e2f21875-3802-4af8-be92-44aa59f5a3f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//i</value>
-      <webElementGuid>3b5e720d-3c98-4464-9f76-8fdefd6d91ba</webElementGuid>
+      <value>//span</value>
+      <webElementGuid>1c2aadbb-a2e6-4fd4-9c4c-67458b2c3cbd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
